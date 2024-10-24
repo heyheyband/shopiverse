@@ -63,7 +63,7 @@
                     full_name: userName.value,
                     address: address.value
                 },
-                emailRedirectTo: 'https://shopiversee.netlify.app/'
+                emailRedirectTo: 'https://shopiverse-julian.netlify.app/'
             }
         })
 
